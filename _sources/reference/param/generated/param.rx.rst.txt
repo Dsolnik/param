@@ -1,0 +1,25 @@
+﻿param.rx
+========
+
+.. currentmodule:: param
+
+.. autoclass:: rx
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~rx.__init__
+      ~rx.register_accessor
+      ~rx.register_display_handler
+      ~rx.register_method_handler
+   
+   
+
+   
+   
+   
